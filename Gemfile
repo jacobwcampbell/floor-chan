@@ -2,4 +2,11 @@
 
 source "https://rubygems.org"
 
-# gem "rails"
+gem "openssl"
+gem "rack-test"
+gem "require_all"
+gem "rspec"
+gem "sequel"
+gem "simplecov"
+gem "sinatra"
+gem "sqlite3"

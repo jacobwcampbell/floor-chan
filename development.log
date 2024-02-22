@@ -1,0 +1,8 @@
+# Logfile created on 2024-02-20 14:04:16 +0000 by logger.rb/v1.5.3
+I, [2024-02-20T14:04:16.511676 #1344]  INFO -- : (0.000293s) PRAGMA foreign_keys = 1
+I, [2024-02-20T14:04:16.511814 #1344]  INFO -- : (0.000024s) PRAGMA case_sensitive_like = 1
+I, [2024-02-20T14:04:16.512788 #1344]  INFO -- : (0.000106s) SELECT sqlite_version()
+I, [2024-02-20T14:04:16.513144 #1344]  INFO -- : (0.000120s) PRAGMA table_xinfo('boards')
+I, [2024-02-20T14:04:16.514116 #1344]  INFO -- : (0.000116s) PRAGMA table_xinfo('comments')
+I, [2024-02-20T14:04:16.514969 #1344]  INFO -- : (0.000124s) PRAGMA table_xinfo('posts')
+I, [2024-02-20T14:04:18.570611 #1344]  INFO -- : (0.000182s) SELECT * FROM `boards`
