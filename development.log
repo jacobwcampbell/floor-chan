@@ -6,3 +6,268 @@ I, [2024-02-20T14:04:16.513144 #1344]  INFO -- : (0.000120s) PRAGMA table_xinfo(
 I, [2024-02-20T14:04:16.514116 #1344]  INFO -- : (0.000116s) PRAGMA table_xinfo('comments')
 I, [2024-02-20T14:04:16.514969 #1344]  INFO -- : (0.000124s) PRAGMA table_xinfo('posts')
 I, [2024-02-20T14:04:18.570611 #1344]  INFO -- : (0.000182s) SELECT * FROM `boards`
+I, [2024-02-22T11:03:41.762535 #228]  INFO -- : (0.000333s) PRAGMA foreign_keys = 1
+I, [2024-02-22T11:03:41.762672 #228]  INFO -- : (0.000024s) PRAGMA case_sensitive_like = 1
+I, [2024-02-22T11:03:41.763473 #228]  INFO -- : (0.000096s) SELECT sqlite_version()
+I, [2024-02-22T11:03:41.763895 #228]  INFO -- : (0.000195s) PRAGMA table_xinfo('boards')
+I, [2024-02-22T11:03:41.764763 #228]  INFO -- : (0.000117s) PRAGMA table_xinfo('comments')
+I, [2024-02-22T11:03:41.765621 #228]  INFO -- : (0.000125s) PRAGMA table_xinfo('posts')
+I, [2024-02-22T11:03:43.267189 #228]  INFO -- : (0.000171s) SELECT * FROM `boards`
+I, [2024-02-22T11:04:05.130433 #254]  INFO -- : (0.000297s) PRAGMA foreign_keys = 1
+I, [2024-02-22T11:04:05.130576 #254]  INFO -- : (0.000023s) PRAGMA case_sensitive_like = 1
+I, [2024-02-22T11:04:05.131351 #254]  INFO -- : (0.000092s) SELECT sqlite_version()
+I, [2024-02-22T11:04:05.131658 #254]  INFO -- : (0.000114s) PRAGMA table_xinfo('boards')
+I, [2024-02-22T11:04:05.132614 #254]  INFO -- : (0.000116s) PRAGMA table_xinfo('comments')
+I, [2024-02-22T11:04:05.133477 #254]  INFO -- : (0.000125s) PRAGMA table_xinfo('posts')
+I, [2024-02-22T11:04:06.164279 #254]  INFO -- : (0.000180s) SELECT * FROM `boards`
+I, [2024-02-22T11:06:26.417371 #342]  INFO -- : (0.000272s) PRAGMA foreign_keys = 1
+I, [2024-02-22T11:06:26.417522 #342]  INFO -- : (0.000024s) PRAGMA case_sensitive_like = 1
+I, [2024-02-22T11:06:26.418334 #342]  INFO -- : (0.000145s) SELECT sqlite_version()
+I, [2024-02-22T11:06:26.418726 #342]  INFO -- : (0.000117s) PRAGMA table_xinfo('boards')
+I, [2024-02-22T11:06:26.419581 #342]  INFO -- : (0.000115s) PRAGMA table_xinfo('comments')
+I, [2024-02-22T11:06:26.420402 #342]  INFO -- : (0.000125s) PRAGMA table_xinfo('posts')
+I, [2024-02-22T11:06:27.939256 #342]  INFO -- : (0.000182s) SELECT * FROM `boards`
+I, [2024-02-22T11:06:52.890654 #368]  INFO -- : (0.000274s) PRAGMA foreign_keys = 1
+I, [2024-02-22T11:06:52.890785 #368]  INFO -- : (0.000023s) PRAGMA case_sensitive_like = 1
+I, [2024-02-22T11:06:52.891564 #368]  INFO -- : (0.000090s) SELECT sqlite_version()
+I, [2024-02-22T11:06:52.891964 #368]  INFO -- : (0.000117s) PRAGMA table_xinfo('boards')
+I, [2024-02-22T11:06:52.892803 #368]  INFO -- : (0.000115s) PRAGMA table_xinfo('comments')
+I, [2024-02-22T11:06:52.893631 #368]  INFO -- : (0.000124s) PRAGMA table_xinfo('posts')
+I, [2024-02-22T11:06:55.999919 #368]  INFO -- : (0.000166s) SELECT * FROM `boards`
+I, [2024-02-22T11:10:13.930172 #394]  INFO -- : (0.000285s) PRAGMA foreign_keys = 1
+I, [2024-02-22T11:10:13.930452 #394]  INFO -- : (0.000026s) PRAGMA case_sensitive_like = 1
+I, [2024-02-22T11:10:13.931283 #394]  INFO -- : (0.000092s) SELECT sqlite_version()
+I, [2024-02-22T11:10:13.931590 #394]  INFO -- : (0.000113s) PRAGMA table_xinfo('boards')
+I, [2024-02-22T11:10:13.932545 #394]  INFO -- : (0.000116s) PRAGMA table_xinfo('comments')
+I, [2024-02-22T11:10:13.933409 #394]  INFO -- : (0.000124s) PRAGMA table_xinfo('posts')
+I, [2024-02-22T11:10:15.191661 #394]  INFO -- : (0.000167s) SELECT * FROM `boards`
+I, [2024-02-22T11:10:19.145178 #394]  INFO -- : (0.000153s) SELECT * FROM `boards`
+I, [2024-02-22T11:11:15.653018 #422]  INFO -- : (0.000294s) PRAGMA foreign_keys = 1
+I, [2024-02-22T11:11:15.653150 #422]  INFO -- : (0.000023s) PRAGMA case_sensitive_like = 1
+I, [2024-02-22T11:11:15.653941 #422]  INFO -- : (0.000090s) SELECT sqlite_version()
+I, [2024-02-22T11:11:15.654333 #422]  INFO -- : (0.000198s) PRAGMA table_xinfo('boards')
+I, [2024-02-22T11:11:15.655314 #422]  INFO -- : (0.000117s) PRAGMA table_xinfo('comments')
+I, [2024-02-22T11:11:15.656138 #422]  INFO -- : (0.000126s) PRAGMA table_xinfo('posts')
+I, [2024-02-22T11:11:17.011027 #422]  INFO -- : (0.000177s) SELECT * FROM `boards`
+I, [2024-02-22T11:12:44.274448 #448]  INFO -- : (0.000298s) PRAGMA foreign_keys = 1
+I, [2024-02-22T11:12:44.274580 #448]  INFO -- : (0.000024s) PRAGMA case_sensitive_like = 1
+I, [2024-02-22T11:12:44.275333 #448]  INFO -- : (0.000088s) SELECT sqlite_version()
+I, [2024-02-22T11:12:44.275726 #448]  INFO -- : (0.000116s) PRAGMA table_xinfo('boards')
+I, [2024-02-22T11:12:44.276570 #448]  INFO -- : (0.000114s) PRAGMA table_xinfo('comments')
+I, [2024-02-22T11:12:44.277399 #448]  INFO -- : (0.000124s) PRAGMA table_xinfo('posts')
+I, [2024-02-22T11:13:07.921292 #472]  INFO -- : (0.000288s) PRAGMA foreign_keys = 1
+I, [2024-02-22T11:13:07.921426 #472]  INFO -- : (0.000024s) PRAGMA case_sensitive_like = 1
+I, [2024-02-22T11:13:07.922201 #472]  INFO -- : (0.000090s) SELECT sqlite_version()
+I, [2024-02-22T11:13:07.922542 #472]  INFO -- : (0.000113s) PRAGMA table_xinfo('boards')
+I, [2024-02-22T11:13:07.923480 #472]  INFO -- : (0.000115s) PRAGMA table_xinfo('comments')
+I, [2024-02-22T11:13:07.924301 #472]  INFO -- : (0.000123s) PRAGMA table_xinfo('posts')
+I, [2024-02-22T11:13:09.646061 #472]  INFO -- : (0.000169s) SELECT * FROM `boards`
+I, [2024-02-22T11:16:00.326135 #497]  INFO -- : (0.000268s) PRAGMA foreign_keys = 1
+I, [2024-02-22T11:16:00.326294 #497]  INFO -- : (0.000030s) PRAGMA case_sensitive_like = 1
+I, [2024-02-22T11:16:00.327072 #497]  INFO -- : (0.000089s) SELECT sqlite_version()
+I, [2024-02-22T11:16:00.327465 #497]  INFO -- : (0.000186s) PRAGMA table_xinfo('boards')
+I, [2024-02-22T11:16:00.328308 #497]  INFO -- : (0.000116s) PRAGMA table_xinfo('comments')
+I, [2024-02-22T11:16:00.329139 #497]  INFO -- : (0.000142s) PRAGMA table_xinfo('posts')
+I, [2024-02-22T11:16:04.026041 #497]  INFO -- : (0.000168s) SELECT * FROM `boards`
+I, [2024-02-22T11:18:11.075680 #525]  INFO -- : (0.000272s) PRAGMA foreign_keys = 1
+I, [2024-02-22T11:18:11.075815 #525]  INFO -- : (0.000023s) PRAGMA case_sensitive_like = 1
+I, [2024-02-22T11:18:11.076611 #525]  INFO -- : (0.000091s) SELECT sqlite_version()
+I, [2024-02-22T11:18:11.076919 #525]  INFO -- : (0.000114s) PRAGMA table_xinfo('boards')
+I, [2024-02-22T11:18:11.077869 #525]  INFO -- : (0.000115s) PRAGMA table_xinfo('comments')
+I, [2024-02-22T11:18:11.078721 #525]  INFO -- : (0.000124s) PRAGMA table_xinfo('posts')
+I, [2024-02-22T11:18:12.302507 #525]  INFO -- : (0.000190s) SELECT * FROM `boards`
+I, [2024-02-22T11:19:38.462844 #550]  INFO -- : (0.000270s) PRAGMA foreign_keys = 1
+I, [2024-02-22T11:19:38.462978 #550]  INFO -- : (0.000023s) PRAGMA case_sensitive_like = 1
+I, [2024-02-22T11:19:38.463740 #550]  INFO -- : (0.000091s) SELECT sqlite_version()
+I, [2024-02-22T11:19:38.464136 #550]  INFO -- : (0.000192s) PRAGMA table_xinfo('boards')
+I, [2024-02-22T11:19:38.464994 #550]  INFO -- : (0.000115s) PRAGMA table_xinfo('comments')
+I, [2024-02-22T11:19:38.465832 #550]  INFO -- : (0.000124s) PRAGMA table_xinfo('posts')
+I, [2024-02-22T11:19:39.679384 #550]  INFO -- : (0.000180s) SELECT * FROM `boards`
+I, [2024-02-22T11:19:42.818120 #550]  INFO -- : (0.000161s) SELECT * FROM `boards` WHERE (`name` = 'lino') LIMIT 1
+I, [2024-02-22T11:20:00.614383 #575]  INFO -- : (0.000317s) PRAGMA foreign_keys = 1
+I, [2024-02-22T11:20:00.614512 #575]  INFO -- : (0.000023s) PRAGMA case_sensitive_like = 1
+I, [2024-02-22T11:20:00.615291 #575]  INFO -- : (0.000092s) SELECT sqlite_version()
+I, [2024-02-22T11:20:00.615603 #575]  INFO -- : (0.000115s) PRAGMA table_xinfo('boards')
+I, [2024-02-22T11:20:00.616530 #575]  INFO -- : (0.000115s) PRAGMA table_xinfo('comments')
+I, [2024-02-22T11:20:00.617372 #575]  INFO -- : (0.000125s) PRAGMA table_xinfo('posts')
+I, [2024-02-22T11:20:01.868990 #575]  INFO -- : (0.000189s) SELECT * FROM `boards`
+I, [2024-02-22T11:20:04.852491 #575]  INFO -- : (0.000163s) SELECT * FROM `boards` WHERE (`name` = 'lino') LIMIT 1
+I, [2024-02-22T11:23:21.860404 #602]  INFO -- : (0.000269s) PRAGMA foreign_keys = 1
+I, [2024-02-22T11:23:21.860540 #602]  INFO -- : (0.000023s) PRAGMA case_sensitive_like = 1
+I, [2024-02-22T11:23:21.861331 #602]  INFO -- : (0.000094s) SELECT sqlite_version()
+I, [2024-02-22T11:23:21.861725 #602]  INFO -- : (0.000189s) PRAGMA table_xinfo('boards')
+I, [2024-02-22T11:23:21.862628 #602]  INFO -- : (0.000117s) PRAGMA table_xinfo('comments')
+I, [2024-02-22T11:23:21.863444 #602]  INFO -- : (0.000124s) PRAGMA table_xinfo('posts')
+I, [2024-02-22T11:23:23.025876 #602]  INFO -- : (0.000172s) SELECT * FROM `boards`
+I, [2024-02-22T11:23:27.131047 #602]  INFO -- : (0.000160s) SELECT * FROM `boards` WHERE (`name` = 'lino') LIMIT 1
+I, [2024-02-22T11:23:27.132257 #602]  INFO -- : (0.000131s) SELECT * FROM `posts` WHERE (`board_id` = 1)
+I, [2024-02-22T11:23:40.204675 #602]  INFO -- : (0.000159s) SELECT * FROM `boards` WHERE (`name` = 'lino') LIMIT 1
+I, [2024-02-22T11:23:40.205814 #602]  INFO -- : (0.000121s) SELECT * FROM `posts` WHERE (`board_id` = 1)
+I, [2024-02-22T11:25:55.441814 #627]  INFO -- : (0.000270s) PRAGMA foreign_keys = 1
+I, [2024-02-22T11:25:55.441950 #627]  INFO -- : (0.000023s) PRAGMA case_sensitive_like = 1
+I, [2024-02-22T11:25:55.442812 #627]  INFO -- : (0.000093s) SELECT sqlite_version()
+I, [2024-02-22T11:25:55.443230 #627]  INFO -- : (0.000190s) PRAGMA table_xinfo('boards')
+I, [2024-02-22T11:25:55.444162 #627]  INFO -- : (0.000115s) PRAGMA table_xinfo('comments')
+I, [2024-02-22T11:25:55.445016 #627]  INFO -- : (0.000140s) PRAGMA table_xinfo('posts')
+I, [2024-02-22T11:25:56.584671 #627]  INFO -- : (0.000168s) SELECT * FROM `boards`
+I, [2024-02-22T11:26:02.633858 #627]  INFO -- : (0.000218s) SELECT * FROM `boards` WHERE (`name` = 'lino') LIMIT 1
+I, [2024-02-22T11:26:02.635113 #627]  INFO -- : (0.000133s) SELECT * FROM `posts` WHERE (`board_id` = 1)
+I, [2024-02-22T11:26:18.339563 #652]  INFO -- : (0.000270s) PRAGMA foreign_keys = 1
+I, [2024-02-22T11:26:18.339698 #652]  INFO -- : (0.000024s) PRAGMA case_sensitive_like = 1
+I, [2024-02-22T11:26:18.340462 #652]  INFO -- : (0.000089s) SELECT sqlite_version()
+I, [2024-02-22T11:26:18.340857 #652]  INFO -- : (0.000191s) PRAGMA table_xinfo('boards')
+I, [2024-02-22T11:26:18.341718 #652]  INFO -- : (0.000117s) PRAGMA table_xinfo('comments')
+I, [2024-02-22T11:26:18.342566 #652]  INFO -- : (0.000124s) PRAGMA table_xinfo('posts')
+I, [2024-02-22T11:26:20.090049 #652]  INFO -- : (0.000175s) SELECT * FROM `boards` WHERE (`name` = 'lino') LIMIT 1
+I, [2024-02-22T11:26:20.103461 #652]  INFO -- : (0.000152s) SELECT * FROM `posts` WHERE (`board_id` = 1)
+I, [2024-02-22T11:26:22.497812 #652]  INFO -- : (0.000152s) SELECT * FROM `boards`
+I, [2024-02-22T11:26:24.771522 #652]  INFO -- : (0.000155s) SELECT * FROM `boards` WHERE (`name` = 'lino') LIMIT 1
+I, [2024-02-22T11:26:24.772587 #652]  INFO -- : (0.000119s) SELECT * FROM `posts` WHERE (`board_id` = 1)
+I, [2024-02-22T11:27:04.017498 #677]  INFO -- : (0.000278s) PRAGMA foreign_keys = 1
+I, [2024-02-22T11:27:04.017634 #677]  INFO -- : (0.000023s) PRAGMA case_sensitive_like = 1
+I, [2024-02-22T11:27:04.018470 #677]  INFO -- : (0.000093s) SELECT sqlite_version()
+I, [2024-02-22T11:27:04.018811 #677]  INFO -- : (0.000126s) PRAGMA table_xinfo('boards')
+I, [2024-02-22T11:27:04.019774 #677]  INFO -- : (0.000116s) PRAGMA table_xinfo('comments')
+I, [2024-02-22T11:27:04.020616 #677]  INFO -- : (0.000123s) PRAGMA table_xinfo('posts')
+I, [2024-02-22T11:27:05.128565 #677]  INFO -- : (0.000166s) SELECT * FROM `boards`
+I, [2024-02-22T11:27:07.329347 #677]  INFO -- : (0.000162s) SELECT * FROM `boards` WHERE (`name` = 'lino') LIMIT 1
+I, [2024-02-22T11:27:19.958742 #702]  INFO -- : (0.000275s) PRAGMA foreign_keys = 1
+I, [2024-02-22T11:27:19.958890 #702]  INFO -- : (0.000026s) PRAGMA case_sensitive_like = 1
+I, [2024-02-22T11:27:19.959696 #702]  INFO -- : (0.000091s) SELECT sqlite_version()
+I, [2024-02-22T11:27:19.960025 #702]  INFO -- : (0.000116s) PRAGMA table_xinfo('boards')
+I, [2024-02-22T11:27:19.960996 #702]  INFO -- : (0.000128s) PRAGMA table_xinfo('comments')
+I, [2024-02-22T11:27:19.961854 #702]  INFO -- : (0.000123s) PRAGMA table_xinfo('posts')
+I, [2024-02-22T11:27:21.206849 #702]  INFO -- : (0.000166s) SELECT * FROM `boards`
+I, [2024-02-22T11:27:22.504904 #702]  INFO -- : (0.000206s) SELECT * FROM `boards` WHERE (`name` = 'lino') LIMIT 1
+I, [2024-02-22T11:27:22.506377 #702]  INFO -- : (0.000196s) SELECT * FROM `posts` WHERE (`board_id` = 1)
+I, [2024-02-22T11:27:33.044216 #749]  INFO -- : (0.000284s) PRAGMA foreign_keys = 1
+I, [2024-02-22T11:27:33.044350 #749]  INFO -- : (0.000023s) PRAGMA case_sensitive_like = 1
+I, [2024-02-22T11:27:33.045140 #749]  INFO -- : (0.000094s) SELECT sqlite_version()
+I, [2024-02-22T11:27:33.045460 #749]  INFO -- : (0.000114s) PRAGMA table_xinfo('boards')
+I, [2024-02-22T11:27:33.046431 #749]  INFO -- : (0.000117s) PRAGMA table_xinfo('comments')
+I, [2024-02-22T11:27:33.047257 #749]  INFO -- : (0.000124s) PRAGMA table_xinfo('posts')
+I, [2024-02-22T11:27:34.193494 #749]  INFO -- : (0.000166s) SELECT * FROM `boards`
+I, [2024-02-22T11:28:00.458343 #826]  INFO -- : (0.000490s) PRAGMA foreign_keys = 1
+I, [2024-02-22T11:28:00.458491 #826]  INFO -- : (0.000024s) PRAGMA case_sensitive_like = 1
+I, [2024-02-22T11:28:00.459276 #826]  INFO -- : (0.000093s) SELECT sqlite_version()
+I, [2024-02-22T11:28:00.459603 #826]  INFO -- : (0.000116s) PRAGMA table_xinfo('boards')
+I, [2024-02-22T11:28:00.460573 #826]  INFO -- : (0.000115s) PRAGMA table_xinfo('comments')
+I, [2024-02-22T11:28:00.461425 #826]  INFO -- : (0.000123s) PRAGMA table_xinfo('posts')
+I, [2024-02-22T11:28:00.944295 #826]  INFO -- : (0.000177s) SELECT * FROM `boards` WHERE (`name` = 'lino') LIMIT 1
+I, [2024-02-22T11:28:00.957887 #826]  INFO -- : (0.000153s) SELECT * FROM `posts` WHERE (`board_id` = 1)
+I, [2024-02-22T11:28:36.061825 #912]  INFO -- : (0.000268s) PRAGMA foreign_keys = 1
+I, [2024-02-22T11:28:36.061975 #912]  INFO -- : (0.000023s) PRAGMA case_sensitive_like = 1
+I, [2024-02-22T11:28:36.062777 #912]  INFO -- : (0.000092s) SELECT sqlite_version()
+I, [2024-02-22T11:28:36.063185 #912]  INFO -- : (0.000117s) PRAGMA table_xinfo('boards')
+I, [2024-02-22T11:28:36.064051 #912]  INFO -- : (0.000113s) PRAGMA table_xinfo('comments')
+I, [2024-02-22T11:28:36.064890 #912]  INFO -- : (0.000124s) PRAGMA table_xinfo('posts')
+I, [2024-02-22T11:28:49.717212 #912]  INFO -- : (0.000184s) SELECT * FROM `boards` WHERE (`name` = 'lino') LIMIT 1
+I, [2024-02-22T11:28:49.730899 #912]  INFO -- : (0.000164s) SELECT * FROM `posts` WHERE (`board_id` = 1)
+I, [2024-02-22T11:28:58.791280 #974]  INFO -- : (0.000273s) PRAGMA foreign_keys = 1
+I, [2024-02-22T11:28:58.791430 #974]  INFO -- : (0.000024s) PRAGMA case_sensitive_like = 1
+I, [2024-02-22T11:28:58.792206 #974]  INFO -- : (0.000093s) SELECT sqlite_version()
+I, [2024-02-22T11:28:58.792527 #974]  INFO -- : (0.000113s) PRAGMA table_xinfo('boards')
+I, [2024-02-22T11:28:58.793510 #974]  INFO -- : (0.000116s) PRAGMA table_xinfo('comments')
+I, [2024-02-22T11:28:58.794395 #974]  INFO -- : (0.000127s) PRAGMA table_xinfo('posts')
+I, [2024-02-22T11:29:58.700612 #1110]  INFO -- : (0.000283s) PRAGMA foreign_keys = 1
+I, [2024-02-22T11:29:58.700761 #1110]  INFO -- : (0.000024s) PRAGMA case_sensitive_like = 1
+I, [2024-02-22T11:29:58.701583 #1110]  INFO -- : (0.000098s) SELECT sqlite_version()
+I, [2024-02-22T11:29:58.701991 #1110]  INFO -- : (0.000117s) PRAGMA table_xinfo('boards')
+I, [2024-02-22T11:29:58.702903 #1110]  INFO -- : (0.000115s) PRAGMA table_xinfo('comments')
+I, [2024-02-22T11:29:58.703785 #1110]  INFO -- : (0.000130s) PRAGMA table_xinfo('posts')
+I, [2024-02-22T11:30:07.560960 #1142]  INFO -- : (0.000298s) PRAGMA foreign_keys = 1
+I, [2024-02-22T11:30:07.561122 #1142]  INFO -- : (0.000031s) PRAGMA case_sensitive_like = 1
+I, [2024-02-22T11:30:07.562106 #1142]  INFO -- : (0.000104s) SELECT sqlite_version()
+I, [2024-02-22T11:30:07.562568 #1142]  INFO -- : (0.000155s) PRAGMA table_xinfo('boards')
+I, [2024-02-22T11:30:07.563662 #1142]  INFO -- : (0.000120s) PRAGMA table_xinfo('comments')
+I, [2024-02-22T11:30:07.564624 #1142]  INFO -- : (0.000128s) PRAGMA table_xinfo('posts')
+I, [2024-02-22T11:30:53.589226 #1249]  INFO -- : (0.000297s) PRAGMA foreign_keys = 1
+I, [2024-02-22T11:30:53.589374 #1249]  INFO -- : (0.000023s) PRAGMA case_sensitive_like = 1
+I, [2024-02-22T11:30:53.590196 #1249]  INFO -- : (0.000094s) SELECT sqlite_version()
+I, [2024-02-22T11:30:53.590671 #1249]  INFO -- : (0.000119s) PRAGMA table_xinfo('boards')
+I, [2024-02-22T11:30:53.591560 #1249]  INFO -- : (0.000116s) PRAGMA table_xinfo('comments')
+I, [2024-02-22T11:30:53.592416 #1249]  INFO -- : (0.000125s) PRAGMA table_xinfo('posts')
+I, [2024-02-22T11:30:58.774164 #1276]  INFO -- : (0.000276s) PRAGMA foreign_keys = 1
+I, [2024-02-22T11:30:58.774358 #1276]  INFO -- : (0.000024s) PRAGMA case_sensitive_like = 1
+I, [2024-02-22T11:30:58.775156 #1276]  INFO -- : (0.000093s) SELECT sqlite_version()
+I, [2024-02-22T11:30:58.775569 #1276]  INFO -- : (0.000194s) PRAGMA table_xinfo('boards')
+I, [2024-02-22T11:30:58.776458 #1276]  INFO -- : (0.000131s) PRAGMA table_xinfo('comments')
+I, [2024-02-22T11:30:58.777322 #1276]  INFO -- : (0.000129s) PRAGMA table_xinfo('posts')
+I, [2024-02-22T11:31:01.816240 #1297]  INFO -- : (0.000292s) PRAGMA foreign_keys = 1
+I, [2024-02-22T11:31:01.816392 #1297]  INFO -- : (0.000024s) PRAGMA case_sensitive_like = 1
+I, [2024-02-22T11:31:01.817214 #1297]  INFO -- : (0.000100s) SELECT sqlite_version()
+I, [2024-02-22T11:31:01.817626 #1297]  INFO -- : (0.000119s) PRAGMA table_xinfo('boards')
+I, [2024-02-22T11:31:01.818626 #1297]  INFO -- : (0.000117s) PRAGMA table_xinfo('comments')
+I, [2024-02-22T11:31:01.819478 #1297]  INFO -- : (0.000125s) PRAGMA table_xinfo('posts')
+I, [2024-02-22T11:35:25.009631 #1549]  INFO -- : (0.000276s) PRAGMA foreign_keys = 1
+I, [2024-02-22T11:35:25.009767 #1549]  INFO -- : (0.000024s) PRAGMA case_sensitive_like = 1
+I, [2024-02-22T11:35:25.010576 #1549]  INFO -- : (0.000094s) SELECT sqlite_version()
+I, [2024-02-22T11:35:25.010968 #1549]  INFO -- : (0.000190s) PRAGMA table_xinfo('boards')
+I, [2024-02-22T11:35:25.011824 #1549]  INFO -- : (0.000117s) PRAGMA table_xinfo('comments')
+I, [2024-02-22T11:35:25.012645 #1549]  INFO -- : (0.000125s) PRAGMA table_xinfo('posts')
+I, [2024-02-22T11:35:29.619907 #1549]  INFO -- : (0.000210s) SELECT * FROM `boards`
+I, [2024-02-22T11:35:31.099836 #1549]  INFO -- : (0.000159s) SELECT * FROM `boards` WHERE (`name` = 'lino') LIMIT 1
+I, [2024-02-22T11:35:31.101119 #1549]  INFO -- : (0.000134s) SELECT * FROM `posts` WHERE (`board_id` = 1)
+I, [2024-02-22T11:35:49.635158 #1620]  INFO -- : (0.000277s) PRAGMA foreign_keys = 1
+I, [2024-02-22T11:35:49.635320 #1620]  INFO -- : (0.000029s) PRAGMA case_sensitive_like = 1
+I, [2024-02-22T11:35:49.636273 #1620]  INFO -- : (0.000092s) SELECT sqlite_version()
+I, [2024-02-22T11:35:49.636750 #1620]  INFO -- : (0.000224s) PRAGMA table_xinfo('boards')
+I, [2024-02-22T11:35:49.637701 #1620]  INFO -- : (0.000117s) PRAGMA table_xinfo('comments')
+I, [2024-02-22T11:35:49.638660 #1620]  INFO -- : (0.000125s) PRAGMA table_xinfo('posts')
+I, [2024-02-22T11:36:19.770538 #1620]  INFO -- : (0.000045s) BEGIN
+I, [2024-02-22T11:36:19.771492 #1620]  INFO -- : (0.000610s) INSERT INTO `posts` (`board_id`, `title`, `body`) VALUES (1, 'I love concrete!', 'I really do love concrete so I am posting about it') RETURNING *
+I, [2024-02-22T11:36:19.852365 #1620]  INFO -- : (0.080755s) COMMIT
+I, [2024-02-22T11:36:38.170138 #1620]  INFO -- : (0.000040s) BEGIN
+I, [2024-02-22T11:36:38.170897 #1620]  INFO -- : (0.000508s) INSERT INTO `posts` (`board_id`, `title`, `body`) VALUES (1, 'I love concrete!', 'Yes') RETURNING *
+I, [2024-02-22T11:36:38.250449 #1620]  INFO -- : (0.079447s) COMMIT
+I, [2024-02-22T11:36:49.385828 #1756]  INFO -- : (0.000273s) PRAGMA foreign_keys = 1
+I, [2024-02-22T11:36:49.385989 #1756]  INFO -- : (0.000028s) PRAGMA case_sensitive_like = 1
+I, [2024-02-22T11:36:49.386835 #1756]  INFO -- : (0.000096s) SELECT sqlite_version()
+I, [2024-02-22T11:36:49.387270 #1756]  INFO -- : (0.000195s) PRAGMA table_xinfo('boards')
+I, [2024-02-22T11:36:49.388161 #1756]  INFO -- : (0.000115s) PRAGMA table_xinfo('comments')
+I, [2024-02-22T11:36:49.389040 #1756]  INFO -- : (0.000143s) PRAGMA table_xinfo('posts')
+I, [2024-02-22T11:36:53.644247 #1756]  INFO -- : (0.000044s) BEGIN
+I, [2024-02-22T11:36:53.645196 #1756]  INFO -- : (0.000615s) INSERT INTO `posts` (`board_id`, `title`, `body`) VALUES (1, 'Hi', 'yea') RETURNING *
+I, [2024-02-22T11:36:53.710298 #1756]  INFO -- : (0.064998s) COMMIT
+I, [2024-02-22T11:37:21.884981 #1836]  INFO -- : (0.000288s) PRAGMA foreign_keys = 1
+I, [2024-02-22T11:37:21.885130 #1836]  INFO -- : (0.000023s) PRAGMA case_sensitive_like = 1
+I, [2024-02-22T11:37:21.885904 #1836]  INFO -- : (0.000092s) SELECT sqlite_version()
+I, [2024-02-22T11:37:21.886363 #1836]  INFO -- : (0.000242s) PRAGMA table_xinfo('boards')
+I, [2024-02-22T11:37:21.887253 #1836]  INFO -- : (0.000118s) PRAGMA table_xinfo('comments')
+I, [2024-02-22T11:37:21.888093 #1836]  INFO -- : (0.000126s) PRAGMA table_xinfo('posts')
+I, [2024-02-22T11:37:27.759200 #1882]  INFO -- : (0.000269s) PRAGMA foreign_keys = 1
+I, [2024-02-22T11:37:27.759333 #1882]  INFO -- : (0.000022s) PRAGMA case_sensitive_like = 1
+I, [2024-02-22T11:37:27.760121 #1882]  INFO -- : (0.000088s) SELECT sqlite_version()
+I, [2024-02-22T11:37:27.760542 #1882]  INFO -- : (0.000117s) PRAGMA table_xinfo('boards')
+I, [2024-02-22T11:37:27.761427 #1882]  INFO -- : (0.000115s) PRAGMA table_xinfo('comments')
+I, [2024-02-22T11:37:27.762407 #1882]  INFO -- : (0.000256s) PRAGMA table_xinfo('posts')
+I, [2024-02-22T11:37:28.815276 #1882]  INFO -- : (0.000178s) SELECT * FROM `boards`
+I, [2024-02-22T11:37:30.999707 #1882]  INFO -- : (0.000158s) SELECT * FROM `boards` WHERE (`name` = 'lino') LIMIT 1
+I, [2024-02-22T11:37:31.001028 #1882]  INFO -- : (0.000174s) SELECT * FROM `posts` WHERE (`board_id` = 1)
+I, [2024-02-22T11:37:37.963422 #1882]  INFO -- : (0.000046s) BEGIN
+I, [2024-02-22T11:37:37.967397 #1882]  INFO -- : (0.003636s) INSERT INTO `posts` (`board_id`, `title`, `body`) VALUES (1, 'sdsa', 'sadas') RETURNING *
+I, [2024-02-22T11:37:38.036646 #1882]  INFO -- : (0.069114s) COMMIT
+I, [2024-02-22T11:37:57.378424 #1963]  INFO -- : (0.000375s) PRAGMA foreign_keys = 1
+I, [2024-02-22T11:37:57.378584 #1963]  INFO -- : (0.000027s) PRAGMA case_sensitive_like = 1
+I, [2024-02-22T11:37:57.379390 #1963]  INFO -- : (0.000094s) SELECT sqlite_version()
+I, [2024-02-22T11:37:57.379819 #1963]  INFO -- : (0.000194s) PRAGMA table_xinfo('boards')
+I, [2024-02-22T11:37:57.380704 #1963]  INFO -- : (0.000116s) PRAGMA table_xinfo('comments')
+I, [2024-02-22T11:37:57.381569 #1963]  INFO -- : (0.000125s) PRAGMA table_xinfo('posts')
+I, [2024-02-22T11:37:58.155298 #1963]  INFO -- : (0.000045s) BEGIN
+I, [2024-02-22T11:37:58.156265 #1963]  INFO -- : (0.000605s) INSERT INTO `posts` (`board_id`, `title`, `body`) VALUES (1, 'sdsa', 'sadas') RETURNING *
+I, [2024-02-22T11:37:58.223907 #1963]  INFO -- : (0.067537s) COMMIT
+I, [2024-02-22T11:38:12.530078 #2009]  INFO -- : (0.000276s) PRAGMA foreign_keys = 1
+I, [2024-02-22T11:38:12.530376 #2009]  INFO -- : (0.000164s) PRAGMA case_sensitive_like = 1
+I, [2024-02-22T11:38:12.531203 #2009]  INFO -- : (0.000092s) SELECT sqlite_version()
+I, [2024-02-22T11:38:12.531553 #2009]  INFO -- : (0.000118s) PRAGMA table_xinfo('boards')
+I, [2024-02-22T11:38:12.532538 #2009]  INFO -- : (0.000118s) PRAGMA table_xinfo('comments')
+I, [2024-02-22T11:38:12.533417 #2009]  INFO -- : (0.000126s) PRAGMA table_xinfo('posts')
+I, [2024-02-22T11:38:15.328902 #2009]  INFO -- : (0.000185s) SELECT * FROM `boards`
+I, [2024-02-22T11:38:16.360578 #2009]  INFO -- : (0.000168s) SELECT * FROM `boards` WHERE (`name` = 'lino') LIMIT 1
+I, [2024-02-22T11:38:16.361957 #2009]  INFO -- : (0.000176s) SELECT * FROM `posts` WHERE (`board_id` = 1)
+I, [2024-02-22T11:38:19.912075 #2009]  INFO -- : (0.000043s) BEGIN
+I, [2024-02-22T11:38:19.913081 #2009]  INFO -- : (0.000654s) INSERT INTO `posts` (`board_id`, `title`, `body`) VALUES (1, 'ADas', 'sadsa') RETURNING *
+I, [2024-02-22T11:38:19.974817 #2009]  INFO -- : (0.061619s) COMMIT
+I, [2024-02-22T11:38:20.093309 #2009]  INFO -- : (0.000143s) SELECT * FROM `boards`
+I, [2024-02-22T11:38:22.191659 #2009]  INFO -- : (0.000157s) SELECT * FROM `boards` WHERE (`name` = 'lino') LIMIT 1
+I, [2024-02-22T11:38:22.193319 #2009]  INFO -- : (0.000179s) SELECT * FROM `posts` WHERE (`board_id` = 1)

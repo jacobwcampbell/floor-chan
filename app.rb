@@ -19,6 +19,7 @@ file_minus_ext = "#{path}/#{mode}"
 DB = Sequel.sqlite("#{file_minus_ext}.sqlite3", logger:
                               Logger.new("#{file_minus_ext}.log"))
 
+
 # Require 
 require_rel "models", "controllers"
 

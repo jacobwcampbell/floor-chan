@@ -4,6 +4,7 @@
   <body>
     <h1>Boards</h1>
     <% @boards.each do |board| %>
-      <p><%= board %></p>
+      <a href="/board/<%= board.name %>"><%= board.name %></a>
+    <% end %>
   </body>
 </html>
